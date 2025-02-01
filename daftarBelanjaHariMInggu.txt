@@ -2,3 +2,5 @@ Daftar Belanja Hari Minggu :
 1. Telor
 2. kangkung
 3. beras
+4. Tahu
+5. Tempe
